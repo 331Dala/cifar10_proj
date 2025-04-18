@@ -1,5 +1,9 @@
 # cifar10_proj
-Image classification CNN in PyTorch.
+Image classification CNN in PyTorch and TensorFlow.
+
+# description
+Env: Jupyter Lab  
+Note: Some code be comment out.  
 
 ###compatibility issues  
 Using CUDA 11.3 and the corresponding PyTorch will encounter some Numpy errors  
